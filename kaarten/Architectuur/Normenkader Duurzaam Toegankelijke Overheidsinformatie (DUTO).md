@@ -1,0 +1,1 @@
+DUTO is een raamwerk waarmee overheidsorganisaties kunnen bepalen welke passende maatregelen ze moeten nemen voor de duurzame toegankelijkheid van hun informatie. DUTO is een norm die is bedoeld voor alle informatieprofessionals die betrokken zijn bij het ontwerpen, kopen, bouwen, inrichten en/of aanpassen van informatiesystemen.

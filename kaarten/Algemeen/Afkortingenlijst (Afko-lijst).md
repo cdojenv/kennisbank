@@ -1,0 +1,138 @@
+---
+tags:
+  - Instrument
+title: Afkortingenlijst (Afko-lijst)
+---
+- AC - Audit Committee
+- ADR - Audit Dienst Rijk
+- AR - Algemene Rekenkamer
+- BM - Burgermeester
+- BO - Beleidsoverleg
+- BR - Brede Bestuursraad
+- BVA - Beveiligingsambtenaar
+- CDI - Coördinerend Directeur Inkoop
+- CIO - Chief Information Officer
+- DLA - Drieletterige afkorting
+- DOR - Departementale Ondernemingsraad
+- GOR BD - Groepsondernemingsraad Bestuursdepartement
+- ICBR - Interdepartementale Commissie Bedrijfsvoering Rijk
+- LOCC - Landelijk Operationeel Coördinatiecentrum
+- MR - Ministerraad
+- MS - Ministerstaf
+- MT - Management Team
+- NCC - Nationaal Coördinatie Centrum
+- OR - Ondernemingsraad
+- SGO - Secretarissen-Generaal Overleg
+- SMTM - Samenwerkingsverband Medezeggenschap Turfmarkt
+- TM - Turfmarkt
+- BD - Bestuursdepartement
+- BIM - Bureau Internationaal Migratiebeleid 
+- BITE - Programma Bestuurlijke Informatie, toezicht en effectiviteit 
+- CBJ - Directie Coördinatie Financiën, Bedrijfsvoering en Juridische Zaken
+- DBAV - Directie Beschermen, Aanpakken en Voorkomen
+- DBO - Directie Bestuursondersteuning
+- DC - Dienstencentrum
+- DCOM - Directie Communicatie
+- DEA - Directie Eigenaarsadvisering
+- DEIA - Directie Europese en Internationale Aangelegenheden
+- DFEZ - Directie Financieel-Economische Zaken
+- DGM - Directoraat-Generaal Migratie
+- DGO - Directoraat-Generaal Ondermijning
+- DGPenV - Directoraat-Generaal Politie en Veiligheidsregio's
+- DGRR - Directoraat-Generaal Rechtspleging en Rechtshandhaving
+- DGSenB - Directoraat-Generaal Straffen en Beschermen
+- DG-staf - Programma-staf en bedrijfsvoering van DGPenV
+- DH&F - Directie Huisvesting en Facilities
+- DI&I - Directie Informatievoorziening en Inkoop
+- DJOA - Directie Juridische en Operationele Aangelegenheden
+- DMB - Directie Migratiebeleid
+- DP&O - Directie Personeel en Organisatie
+- DRb - Directie Rechtsbestel
+- DRC - Directie Rechtshandhaving en Criminaliteitsbestrijding
+- DRM - Directie Regie Migratieketen
+- DSenJ - Directie Sanctietoepassing en Jeugd
+- DSK - Directie Strafrechtketen
+- DVB - Directie Veiligheid en Bestuur 
+- DWJZ - Directie Wetgeving en Juridische Zaken
+- EBF - Programma Eigenaarsondersteuning, bedrijfsvoering en financiën
+- GenV - Programma Grenzen en Veiligheid
+- ICA - Programma Internationale en Caribische Aangelegenheden
+- LVV - Programma Landelijke Vreemdelingen Voorzieningen
+- MCA - Programma Meldkamer, Crisiscommunicatie en Alerteren
+- NCTV - Nationaal Coordinator Terrorismebestreiding en Veiligheid
+- PBI - Programma Politiebestel, bevoegdheden en informatiefunctie
+- PBO - Programma Politiële beleidsontwikkeling
+- V&C - Programma Veiligheidsregio’s en Crisisbeheersing
+- AZ - Ministerie van Algemene Zaken
+- BZ - Ministerie van Buitenlandse Zaken
+- BZK - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+- DEF - Ministerie van Defensie
+- EZK - Ministerie van Economische Zaken en Klimaat
+- Fin - Ministerie van Financiën
+- JenV - Ministerie van Justitie en Veiligheid
+- OCW - Ministerie van Onderwijs, Cultuur en Wetenschappen
+- SZW - Ministerie van Sociale Zaken en Werkgelegenheid
+- VWS - Ministerie van Volksgezondheid, Welzijn en Sport
+- AC-AR - Adviescommissie auteursrecht
+- AC-BP - Adviescommissie voor burgerlijk procesrecht
+- AC-BSenN - Adviescommissie voor aangelegenheden betreffende burgerlijke staat en nationaliteit
+- AC-VR - Adviescommissie vennootschapsrecht
+- AP - Autoriteit Persoonsgegevens
+- AVc - Aanpak Voertuig-criminaliteit
+- BAVT - Bureau Adviescollege Verloftoetsing tbs
+- BFT - Bureau Financieel Toezicht
+- CCV - Stichting Centrum voor Criminaliteitspreventie en Veiligheid
+- CIK - Centrum Internationale Kinderontvoering
+- CJIB - Centraal Justitieel Incasso Bureau
+- COA - Centraal orgaan opvang Asielzoekers
+- CoMensha - Coordinatie centrum Mensenhandel
+- CRM - College voor de rechten van de mens
+- CvT BP-BES - Commissie van toezicht bescherming persoonsgegevens Bonaire, Eustatius, Saba
+- CvTA - College van toezicht collectieve beheers- organisaties auteurs- en
+- DJI - Dienst Justitiële Inrichtingen
+- DT&V - Dienst Terugkeer & Vertrek
+- EFP - Expertisecentrum Forensische Psychiatrie
+- EOKM - Expertisebureau online kindermisbruik
+- HALT - Bureau Halt
+- HKMI - Het Keurmerkinstituut
+- HR - Hoge Raad
+- IFV - Instituut Fysieke Veiligheid
+- IJenV - Inspectie Justitie en Veiligheid
+- IND - Immigratie en Naturalisatie Dienst
+- IOM - Internationale organisatie voor migratie
+- Justid - Justitiële Informatiedienst
+- Justis - Justitiële Uitvoeringsdienst Toetsing, Integriteit, Screening
+- Ksa - Kansspelautoriteit
+- LAP - Landelijke Adviescommissie Plaatsing Longstay Forensische Zorg
+- LBIO - Landelijk Bureau Inning Onderhoudsbijdragen
+- LJ&R - Leger des Heils Jeugdbescherming & Reclassering (UR)
+- NCSC - Nationaal Cyber Security Centrum
+- NCTV - Nationale Coördinatie Terrorismebestrijding en Veiligheid
+- NFI - Nederlands Forensisch Instituut
+- Nidos - Stichting Nidos
+- NP - Nationale Politie
+- NRM - Nationaal Rapporteur Mensenhandel
+- OM - Openbaar Ministerie
+- Ovv - Onderzoeksraad voor de Veiligheid
+- PA - Politieacademie
+- Part FPC - Particuliere forensische psychiatrische centra
+- Part JI - Particuliere jeugdinrichtingen (cluster)
+- RSJ - Raad voor strafrechts- toepassing en jeugdbescherming
+- RvdK - Raad voor de Kinderbescherming
+- Rvdr - Raad voor de rechtspraak
+- RvR - Raad voor Rechtsbijstand
+- SafeCin - Stichting aanpak Financieel- Economische Criminaliteit in Nederland
+- SAOP - Stichting Arbeidsmarkt- en Opleidingsfonds Politie
+- SDKB - Stichting Donorgegevens Kunstmatige Bevruchting
+- Secr ACVZ - Secretariaat van de Adviescommissie voor Vreemdelingenzaken
+- SGM - Commissie Schadefonds Geweldsmisdrijven
+- SHN - Slachtofferhulp Nederland
+- SRN - Stichting Reclassering
+- St AV - Stichting Adoptievoorzieningen
+- St NLC - Stichting Nederland Confidential
+- St PH - Stichting Perspectief Herstelbemiddeling
+- St RenO - Stichting Recht en overheid
+- Stab - Stichting Advisering Bestuursrechtspraak voor Milieu en Ruimtelijke Ordening
+- SVG - Stichting Verslavingsreclassering GGZ
+- VR-BES - Voogdijraad BES
+- WODC - Wetenschappelijk Onderzoek- en Documentatiecentrum
