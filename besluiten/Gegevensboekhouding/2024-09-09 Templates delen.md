@@ -1,5 +1,5 @@
 ---
-title: 
+title: 2024-09-09 Templates delen
 status: voorstel
 superseded by: 
 date: 2024-09-09 13:40
