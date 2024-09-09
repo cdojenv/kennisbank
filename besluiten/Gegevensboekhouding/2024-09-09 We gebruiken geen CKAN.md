@@ -1,1 +1,1 @@
-Te veel focus op publicatie van gegevenssets en niet gegevenstypes.
+[[CKAN]] focust te veel op publicatie van gegevenssets en niet gegevenstypes.
