@@ -1,5 +1,5 @@
 ---
-title: 2024-09-09 We gebruiken geen CKAN
+title: We gebruiken geen CKAN
 status: voorstel
 superseded by: 
 date: 2024-09-09 13:47
