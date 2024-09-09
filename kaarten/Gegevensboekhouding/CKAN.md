@@ -6,3 +6,4 @@ tags:
   - Tool
   - OpenSource
 ---
+CKAN is open source oplossing voor presenteren van datasets.

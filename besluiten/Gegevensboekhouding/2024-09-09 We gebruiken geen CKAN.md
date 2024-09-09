@@ -1,0 +1,1 @@
+Te veel focus op publicatie van gegevenssets en niet gegevenstypes.
