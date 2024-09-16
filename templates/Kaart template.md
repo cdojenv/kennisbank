@@ -1,8 +1,7 @@
 ---
 title: 
 tags: 
-jaga onderdeel:
-  - Algemeen, Analyse-en-beleid, Architectuur, CDO-Office, Gegevensboekhouding, Traineeship-en-organisatie, Wetsanalyse
+links:
 ---
 *In twee regels het concept samenvatten*
 ## Omschrijving
